@@ -46,5 +46,4 @@ Contact us
 
 If you have any questions or feedback, please feel free to contact us at Utkarsh.bhola31@gmail.com
 
-![image](https://github.com/utkarshbhola/booksat-door/assets/63907963/27e2c07d-744a-4c33-a5b3-7b5fa46929e5)
 
