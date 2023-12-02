@@ -39,10 +39,42 @@ Thank you for your interest in Team Bazinga's Smart India Hackathon project
 ![image](readme-3.jpeg)
 ![image](readme-5.jpeg)
 
-Team details 
-LEADER	      Himanchal Khattri	    himanchalkhattri@gmail.com	
-TEAM_MEMBER  	Anmol Sharma	        anmolsha239@gmail.com	
-TEAM_MEMBER	  Ayush Abhishek Gupta	ayushabhishek.spn@gmail.com	
-TEAM_MEMBER	  Neha Kushwaha	        nehu06kush@gmail.com		
-TEAM_MEMBER	  Lalit Chaudhary	      lc7906798@gmail.com		
-TEAM_MEMBER	  Utkarsh Bhola	        utkarsh.bhola31@gmail.com	
+<h1 style ="color:blue;" >Team details</h1> 
+<table>
+  <tr>
+    <th>Team Members</th>
+    <th>Team Name </th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <td>TEAM_LEADER</td>
+    <td>Himanchal Khattri</td>
+    <td>himanchalkhattri@gmail.com</td>
+  </tr>
+  <tr>
+    <td>TEAM_MEMBER</td>
+    <td> Anmol Sharma</td>
+    <td>anmolsha239@gmail.com</td>
+  </tr>
+  <tr>
+    <td>TEAM_MEMBER</td>
+    <td>Ayush Abhishek Gupta</td>
+    <td>ayushabhishek.spn@gmail.com</td>
+  </tr>
+  <tr>
+    <td>TEAM_MEMBER</td>
+    <td> Neha Kushwaha</td>
+    <td>nehu06kush@gmail.com</td>
+  </tr>
+  <tr>
+    <td>TEAM_MEMBER</td>
+    <td> Lalit Chaudhary</td>
+    <td>lc7906798@gmail.com</td>
+  </tr>
+  <tr>
+    <td>TEAM_MEMBER</td>
+    <td> Utkarsh Bhola</td>
+    <td>utkarsh.bhola31@gmail.com</td>
+  </tr>
+</table>
+
