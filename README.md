@@ -39,3 +39,10 @@ Thank you for your interest in Team Bazinga's Smart India Hackathon project
 ![image](readme-3.jpeg)
 ![image](readme-5.jpeg)
 
+Team details 
+LEADER	      Himanchal Khattri	    himanchalkhattri@gmail.com	
+TEAM_MEMBER  	Anmol Sharma	        anmolsha239@gmail.com	
+TEAM_MEMBER	  Ayush Abhishek Gupta	ayushabhishek.spn@gmail.com	
+TEAM_MEMBER	  Neha Kushwaha	        nehu06kush@gmail.com		
+TEAM_MEMBER	  Lalit Chaudhary	      lc7906798@gmail.com		
+TEAM_MEMBER	  Utkarsh Bhola	        utkarsh.bhola31@gmail.com	
